@@ -199,6 +199,5 @@ except Exception as e:
 print("Service is currently trying to run")
 print("Try again later!")
 turtle.title("ACCOUNT")
-print("vanexelent@aol.com")
-print("Champs97!")
+
 turtle.mainloop()
